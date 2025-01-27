@@ -17,10 +17,11 @@ Project consists of a stock price prediction model using TensorFLow. The analysi
 <h2>Project walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Steps in the Code: <br/>
+
 <br />
 <br />
+![image](https://github.com/user-attachments/assets/477d5b4a-d1a6-4295-a5bf-c206d2ec30aa)
 
 
 <!--
