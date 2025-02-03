@@ -21,7 +21,34 @@ Steps in the Code: <br/>
 
 <br />
 <br />
-![image](https://github.com/user-attachments/assets/477d5b4a-d1a6-4295-a5bf-c206d2ec30aa)
+<img src="https://i.imgur.com/quEu0R0.png" height="80%" width="80%" alt="Disk Sanilization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/h9qnIiG.png" height="80%" width="80%" alt="Disk Sanilization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/aPUBJBp.png" height="80%" width="80%" alt="Disk Sanilization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/tsgptTG.png" height="80%" width="80%" alt="Disk Sanilization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/VnzStTy.png" height="80%" width="80%" alt="Disk Sanilization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/Oe6ZubC.png" height="80%" width="80%" alt="Disk Sanilization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/rFVLrel.png" height="80%" width="80%" alt="Disk Sanilization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/t16Z7iD.png" height="80%" width="80%" alt="Disk Sanilization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/oYwoHMH.png" height="80%" width="80%" alt="Disk Sanilization Steps"/>
+<br />
+<br />
+<img src="https://i.imgur.com/mPQLNe9.png" height="80%" width="80%" alt="Disk Sanilization Steps"/>
 
 
 <!--
