@@ -1,7 +1,7 @@
 <h1>Stock Price Prediction Project</h1>
 
 <h2>Description</h2>
-Project consists of a stock price prediction model using TensorFLow. The analysis uses a Timeseries and is performed using a Recurrent Neural Network (RNN)
+Project consists of a stock price prediction model using TensorFLow. 
 <br />
 
 
