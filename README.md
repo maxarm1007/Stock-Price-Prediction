@@ -1,7 +1,7 @@
 <h1>Stock Price Prediction Project</h1>
 
 <h2>Description</h2>
-Project consists of a stock price prediction model using TensorFLow. 
+Project showcases the use of  pandas and matplotlib to prepare and visualize data pulled from yfinance. This data is then used the train and test a model created using TensorFlow to predict Apples future stock price. 
 <br />
 
 
