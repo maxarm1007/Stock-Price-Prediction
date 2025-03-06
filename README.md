@@ -1,18 +1,25 @@
 <h1>Stock Price Prediction Project</h1>
 
 <h2>Description</h2>
-Project showcases the use of  pandas and matplotlib to prepare and visualize data pulled from yfinance. This data is then used the train and test a model created using TensorFlow to predict Apples future stock price. 
+This project applies machine learning techniques to predict stock prices using historical market data. It leverages Yahoo Finance API for data retrieval and utilizes scikit-learn for predictive modeling.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Features</h2>
+•	Stock Data Retrieval: Fetches historical stock data using Yahoo Finance (yfinance).
+•	Data Processing: Uses Pandas and NumPy for handling time-series data.
+•	Data Visualization: Employs Matplotlib for plotting stock trends.
+•	Machine Learning Modeling: Implements predictive models using scikit-learn.
 
-- <b>Python (Pandas, Numpy, Matplotlib, TensorFlow)</b> 
 
+<h2>Technologies Used </h2>
 
-<h2>Software Used </h2>
-
-- <b>Visual Code</b> 
+Python 🐍
+Scikit-Learn (Machine Learning)
+Pandas (Data Processing)
+NumPy (Numerical Computation)
+Yahoo Finance API (Stock Data Retrieval)
+Matplotlib (Data Visualization)
 
 <h2>Project walk-through:</h2>
 
